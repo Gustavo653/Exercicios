@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImparPar", "ImparPar\ImparPar.csproj", "{617C294B-0FEE-47FE-B7D8-F46DD6DA009A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExibeUsuarioNaTela", "ExibeUsuarioNaTela\ExibeUsuarioNaTela.csproj", "{94FF0540-C52D-4828-8844-2E80A96D2EB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{617C294B-0FEE-47FE-B7D8-F46DD6DA009A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{617C294B-0FEE-47FE-B7D8-F46DD6DA009A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{617C294B-0FEE-47FE-B7D8-F46DD6DA009A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FF0540-C52D-4828-8844-2E80A96D2EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FF0540-C52D-4828-8844-2E80A96D2EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FF0540-C52D-4828-8844-2E80A96D2EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FF0540-C52D-4828-8844-2E80A96D2EB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
