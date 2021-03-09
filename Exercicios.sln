@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Exercicios.csproj", "{350DEE8C-ACA0-44F1-9172-56671BC865A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Exercicios\Calculadora.csproj", "{350DEE8C-ACA0-44F1-9172-56671BC865A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImparPar", "ImparPar\ImparPar.csproj", "{617C294B-0FEE-47FE-B7D8-F46DD6DA009A}"
 EndProject
