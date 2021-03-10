@@ -17,6 +17,7 @@ namespace Triangulos
                 int n3 = int.Parse(Console.ReadLine());
                 VerificarTriangulo veftri = new VerificarTriangulo(n1, n2, n3);
                 Console.WriteLine(veftri.Verificacao(n1, n2, n3));
+                Console.WriteLine();
                 Main(args);
             }
             catch (Exception e)
