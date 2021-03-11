@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginEstoque", "LoginEstoqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoBissexto", "AnoBissexto\AnoBissexto.csproj", "{B4C24041-61A8-4661-B6EB-C56D83D8E26C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenciaInteirosAte1", "SequênciaInteirosAte1\SequenciaInteirosAte1.csproj", "{199729CA-DDFC-452E-86B6-D427C01DA12E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B4C24041-61A8-4661-B6EB-C56D83D8E26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4C24041-61A8-4661-B6EB-C56D83D8E26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4C24041-61A8-4661-B6EB-C56D83D8E26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199729CA-DDFC-452E-86B6-D427C01DA12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199729CA-DDFC-452E-86B6-D427C01DA12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199729CA-DDFC-452E-86B6-D427C01DA12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199729CA-DDFC-452E-86B6-D427C01DA12E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
