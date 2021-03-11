@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Exercicios\Calculadora.csproj", "{350DEE8C-ACA0-44F1-9172-56671BC865A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Exercicios\Calculadora.csproj", "{350DEE8C-ACA0-44F1-9172-56671BC865A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImparPar", "ImparPar\ImparPar.csproj", "{617C294B-0FEE-47FE-B7D8-F46DD6DA009A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImparPar", "ImparPar\ImparPar.csproj", "{617C294B-0FEE-47FE-B7D8-F46DD6DA009A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExibeUsuarioNaTela", "ExibeUsuarioNaTela\ExibeUsuarioNaTela.csproj", "{94FF0540-C52D-4828-8844-2E80A96D2EB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExibeUsuarioNaTela", "ExibeUsuarioNaTela\ExibeUsuarioNaTela.csproj", "{94FF0540-C52D-4828-8844-2E80A96D2EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulos", "Triangulos\Triangulos.csproj", "{90A27A83-3653-404E-A9CF-6A796ABA261A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulos", "Triangulos\Triangulos.csproj", "{90A27A83-3653-404E-A9CF-6A796ABA261A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginEstoque", "LoginEstoque\LoginEstoque.csproj", "{03B1B156-BCEA-4824-8A79-9EF3A5EBB9D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginEstoque", "LoginEstoque\LoginEstoque.csproj", "{03B1B156-BCEA-4824-8A79-9EF3A5EBB9D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoBissexto", "AnoBissexto\AnoBissexto.csproj", "{B4C24041-61A8-4661-B6EB-C56D83D8E26C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{03B1B156-BCEA-4824-8A79-9EF3A5EBB9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03B1B156-BCEA-4824-8A79-9EF3A5EBB9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03B1B156-BCEA-4824-8A79-9EF3A5EBB9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C24041-61A8-4661-B6EB-C56D83D8E26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C24041-61A8-4661-B6EB-C56D83D8E26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C24041-61A8-4661-B6EB-C56D83D8E26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C24041-61A8-4661-B6EB-C56D83D8E26C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
