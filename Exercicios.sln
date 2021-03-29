@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulos", "Triangulos\Tr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginEstoque", "LoginEstoque\LoginEstoque.csproj", "{03B1B156-BCEA-4824-8A79-9EF3A5EBB9D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoBissexto", "AnoBissexto\AnoBissexto.csproj", "{B4C24041-61A8-4661-B6EB-C56D83D8E26C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnoBissexto", "AnoBissexto\AnoBissexto.csproj", "{B4C24041-61A8-4661-B6EB-C56D83D8E26C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenciaInteirosAte1", "SequênciaInteirosAte1\SequenciaInteirosAte1.csproj", "{199729CA-DDFC-452E-86B6-D427C01DA12E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenciaInteirosAte1", "SequênciaInteirosAte1\SequenciaInteirosAte1.csproj", "{199729CA-DDFC-452E-86B6-D427C01DA12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustoPassagemOnibus", "CustoPassagemOnibus\CustoPassagemOnibus.csproj", "{F793D6AE-636B-4DAC-9E37-336290C51712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{199729CA-DDFC-452E-86B6-D427C01DA12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{199729CA-DDFC-452E-86B6-D427C01DA12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{199729CA-DDFC-452E-86B6-D427C01DA12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F793D6AE-636B-4DAC-9E37-336290C51712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F793D6AE-636B-4DAC-9E37-336290C51712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F793D6AE-636B-4DAC-9E37-336290C51712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F793D6AE-636B-4DAC-9E37-336290C51712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
